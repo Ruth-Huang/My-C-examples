@@ -1,0 +1,22 @@
+In the beginning, computer science at Otago University was taught from the Computing Services Centre. A separate department was proposed in 1983 and the new Computer Science Department began offering papers in 1984.
+
+See a short history of the department
+
+It currently has fifteen lecturing staff, two honorary lecturers, three Professional Practice Fellows, and seven support staff. The Department until recently was housed in several buildings including the historic Archway West building where the administrative centre resided. The entire Department is now located in the Owheo building, 133 Union Street East.
+
+Our focus has always been great teaching informed by great research. We make a point of providing a supportive environment for learning. Our curriculum closely follows the ACM/IEEE computer science curriculum, and as such our graduates are equal to computer science graduates from the best universities in the world.
+
+The research in the Department covers a diverse range of exciting topics including: computer graphics, computer theory, artificial intelligence (AI), computer vision and pattern recognition, parallel and systems programming, information retrieval and data mining.
+
+In 2008, our Systems Research group became part of a SUN Centre of Excellence - Otago was the first university outside the US to gain such an honour. Our Computer Graphics group has been consistently world class for over two decades resulting in many influential publications and a successful local company (Animation Research Limited). The AI group is developing understanding of how the brain works through it's neural networks, cognitive science and logic research. In an age where all information is online, our Information Retrieval group is busy building better search engines. The Theory group is discovering knowledge about some of the fundamental data structures in computer science, and the Computer Vision group is working on interpreting x-rays for medicine and industry.
+
+We are justifiably proud of the achievements of our students in the finals of the international ACM programming competition: 10th 1988/1989, 1st 1989/1990, 5th 1992/1993, 2nd 1993/1994, 11th equal 1998/1999, 29th equal 2000/2001, 27th equal 2001/2002, 27th equal 2003/2004. Otago was the first non-North American team to win the finals, beating teams from the likes of Harvard and Stanford. Otago remains one of only two southern hemisphere teams to win the competition, and the only team from New Zealand. Some of our graduates have gone on to become stars in the field, working in areas as diverse as making movies at Pixar (Ratatouille, Wall-E, Brave) and Weta, software for NASAs Mars rovers, and making computer games (like Halo).
+
+We are also a community minded department. We regularly contribute to: the scientific community as editors and reviewers; the local community by giving advice to schools; the business community as consultants and giving advice; and the university community on boards and committees.
+
+Our graduates have a bright future. With a chronic shortage of ICT staff and programmers in New Zealand, the number of jobs and salary levels within the industry have been rising. Computer Scientists are among the highest paid graduates of all disciplines, and work in some of the most interesting environments, both technical and business- oriented. You can also check the MBIE's Job Prospects for Software Developers.
+
+For a challenging, interesting, varied, intellectually rewarding, and well paid career, Computer Science is a clear leader.
+
+We hope to see you in our classes in the future.
+

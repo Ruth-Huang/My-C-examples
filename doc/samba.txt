@@ -1,0 +1,39 @@
+To install Samba on Raspberry Pi, run
+
+sudo apt-get install samba samba-common-bin
+and add user pi to the local smbpasswd file:
+
+sudo smbpasswd -a pi
+Open the smb.conf file for editing in the Nano text editor using
+
+sudo nano /etc/samba/smb.conf
+and uncomment the security = user line. Scroll down to the end of the file and add a share definition (e.g., for photos; replace </path/to/dir> with the actual path to the directory containing photos):
+
+[Photos]
+path = </path/to/dir>
+available = yes
+valid users = @users
+read only = no
+browsable = yes
+public = yes
+writable = yes
+Save the changes and restart Samba using
+
+sudo /etc/init.d/samba restart
+You can now access the defined share from a Windows machine or from an app that supports the SMB protocol.
+
+For more information, visit the Samba website.
+
+Shut Down From Linux
+
+Once you’ve set up the computer, you can also shut it down from a Linux system. This requires the samba-common package installed – you can install it on Ubuntu with the following command:
+
+sudo apt-get install samba-common
+
+Once you have, use the following command from a terminal:
+
+net rpc shutdown -I ip.address -U user%password
+
+Replace “ip.address” with the numerical address of the Windows computer, “user” with the username of an account that has administrator privileges on the remote computer, and “password” with the user account’s password. You can add a “-r” option to the command if you want the computer to restart instead of shutting down.
+
+
